@@ -1,0 +1,14 @@
+C:\Users\Asus\MyWinFormsApp\bin\Debug\net9.0-windows\MyWinFormsApp.exe
+C:\Users\Asus\MyWinFormsApp\bin\Debug\net9.0-windows\MyWinFormsApp.deps.json
+C:\Users\Asus\MyWinFormsApp\bin\Debug\net9.0-windows\MyWinFormsApp.runtimeconfig.json
+C:\Users\Asus\MyWinFormsApp\bin\Debug\net9.0-windows\MyWinFormsApp.dll
+C:\Users\Asus\MyWinFormsApp\bin\Debug\net9.0-windows\MyWinFormsApp.pdb
+C:\Users\Asus\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\Asus\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.AssemblyInfo.cs
+C:\Users\Asus\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.dll
+C:\Users\Asus\MyWinFormsApp\obj\Debug\net9.0-windows\refint\MyWinFormsApp.dll
+C:\Users\Asus\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.pdb
+C:\Users\Asus\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.genruntimeconfig.cache
+C:\Users\Asus\MyWinFormsApp\obj\Debug\net9.0-windows\ref\MyWinFormsApp.dll
